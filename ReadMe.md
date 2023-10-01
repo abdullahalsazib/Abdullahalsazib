@@ -6,7 +6,7 @@ Web Designer and Developer
 
 * 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [mdsazibhossin2021@gmail.com](mailto:mdsazibhossin2021@gmail.com)
-* 🧠  I'm learning React js, ES6
+* 🧠  I'm learning React js, ES6,Python,Django... etc.
 
 <a href="https://www.github.com/abdullahalsazib" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/abdullahalsazib?logo=github&style=for-the-badge&color=22c55e&labelColor=1e3a8a" /></a><a href="https://www.twitter.com/AbdullahAlSazib " target="_blank" rel="noreferrer"><img
