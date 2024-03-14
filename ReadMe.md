@@ -5,7 +5,7 @@
 
  🌍  I'm based in Bangladesh <br/>
  ✉️  You can contact me at [mdsazibhossin2021@gmail.com](mailto:mdsazibhossin2021@gmail.com)  <br/>
- 🧠  I'm learning React js, ES6,Python,Django... etc.  <br/>
+ 🧠  I'm learning DSA in C++, React js, ES6,Python,Django... etc.  <br/>
 
 </div>
 
