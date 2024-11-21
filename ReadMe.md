@@ -12,10 +12,7 @@
 
 
 
-<p align="center">
 
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Abdullahalsazib&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="100%" height="0%">
- </p>
 
 ### <p align="center">Skills</p>
 <div align="center">
