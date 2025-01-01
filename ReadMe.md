@@ -1,12 +1,16 @@
 # Abdullah Al Sazib
 
-Welcome to my GitHub profile! 👋 I'm **Abdullah Al Sazib**, also known as **Jack Sparrow** 🏴‍☠️, a passionate **developer** from **Bangladesh** 🇧🇩. I love exploring and contributing to various technologies and projects.
+Welcome to my GitHub profile! 👋 I'm **Abdullah Al Sazib**, also known as **Jack Sparrow** 🏴‍☠️.🚀 I'm a passionate **developer** 💻, **learner** 📚, and **tech enthusiast** ⚙️. I enjoy exploring new technologies and building cool projects that solve real-world problems. On this page, you'll find a collection of repositories ranging from **web development** 🌐 to **C++** and **Go** projects 🐍, as well as contributions to **open-source** communities 💪.
 
 ---
 
 ## 🧑‍💻 About Me
 
-I’m currently learning **Java**, **C++**, **Go**, **Python**, **Linux**, **DevOps**, and **Cybersecurity** 🛡️. I also have a deep interest in **web development**, particularly **backend** technologies (Go, Java) and **frontend** (ReactJS, Angular). 
+- 🎓 Currently learning **Go**, **DSA (Data Structures & Algorithms)**, **Java**, **Angular**, **Cybersecurity** 🛡️, and more.
+- 🌱 Always looking to improve my **coding** skills and **problem-solving** abilities.
+- 💬 Ask me about **Linux**, **DevOps**, **C++**, **Ethical Hacking**, **Cybersecurity**, and **Web Development**.
+- 🌍 Based in **Bangladesh** 🇧🇩.
+
 
 My ultimate goal is to become proficient in **ethical hacking** and **cybersecurity**, leveraging my coding skills to create robust and secure systems. I'm always eager to learn new things and contribute to open-source projects.
 
@@ -25,13 +29,13 @@ I’m a huge fan of **Jack Sparrow** 🏴‍☠️ (Johnny Depp) and love watchi
 
 ## 🚀 Technologies & Tools
 
-- **Languages**: Java, C++, Go, Python, JavaScript, TypeScript
+- **Languages**: C, C++, Go, Java, Bash, Python, JavaScript (React, Angular)
 - **Frontend**: ReactJS, Angular
-- **Backend**: Go, Java, Node.js
-- **Databases**: MySQL, MongoDB
-- **Tools**: Docker, Kubernetes, Git, VS Code, Neovim, Vim
+- **Backend**: Go
+- **Databases**: MySQL
+- **Tools & Technologies**: Docker, Git, Neovim, VS Code, Kali Linux
+- **Cybersecurity**: Ethical Hacking, Penetration Testing, OSINT
 - **Operating Systems**: Linux (Kali Linux, Ubuntu)
-
 ---
 
 ## 📝 My Projects
@@ -44,6 +48,17 @@ Here are some of the open-source projects I’ve worked on:
 - **[E-Commerce](https://github.com/abdullahalsazib/e-commerce)**: A fully functional e-commerce application built with React.
 
 ---
+
+
+## 🛠️ Setup & Development
+
+I use the following tools for my development:
+
+- **Neovim** 📝 (My favorite text editor)
+- **VS Code** 💻 (For frontend and web development)
+- **Git & GitHub** 🌍 (For version control and collaboration)
+- **Docker** 🐋 (For containerization)
+
 
 ## 💡 Contributions
 
