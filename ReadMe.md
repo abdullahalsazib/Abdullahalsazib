@@ -6,7 +6,7 @@ Welcome to my GitHub profile! 👋 I'm **Abdullah Al Sazib**, also known as **Ja
 
 ## 🧑‍💻 About Me
 
-- 🎓 Currently learning **Go**, **DSA (Data Structures & Algorithms)**, **Java**, **Angular**, **Cybersecurity** 🛡️, and more.
+- 🎓 Currently learning **Go**, **DSA (Data Structures & Algorithms)**, **Java**, **ReactJs**, **Cybersecurity** 🛡️, and more.
 - 🌱 Always looking to improve my **coding** skills and **problem-solving** abilities.
 - 💬 Ask me about **Linux**, **DevOps**, **C++**, **Ethical Hacking**, **Cybersecurity**, and **Web Development**.
 - 🌍 Based in **Bangladesh** 🇧🇩.
@@ -18,7 +18,7 @@ My ultimate goal is to become proficient in **ethical hacking** and **cybersecur
 **Bangladesh** 🇧🇩
 
 ### 💼 Currently:
-- **Learning Go** for backend development and **Angular** for frontend.
+- **Learning Go** for backend development and **ReactJs** for frontend.
 - Exploring **Docker** 🐳 for containerization.
 - Expanding my skills in **cybersecurity** and **ethical hacking** 🔐.
 
@@ -29,8 +29,8 @@ I’m a huge fan of **Jack Sparrow** 🏴‍☠️ (Johnny Depp) and love watchi
 
 ## 🚀 Technologies & Tools
 
-- **Languages**: C, C++, Go, Java, Bash, Python, JavaScript (React, Angular)
-- **Frontend**: ReactJS, Angular
+- **Languages**: C, C++, Go, Java, Bash, Python, JavaScript (ReactJs)
+- **Frontend**: ReactJS
 - **Backend**: Go
 - **Databases**: MySQL
 - **Tools & Technologies**: Docker, Git, Neovim, VS Code, Kali Linux
@@ -105,15 +105,16 @@ I love contributing to open-source projects and learning from the amazing develo
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="reactjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  
 </div>
 
 ###
