@@ -125,3 +125,5 @@ I love contributing to open-source projects and learning from the amazing develo
 </div>
 
 ###
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullahalsazib&bg_color=3d3d3d&color=ffffff&line=00b862&point=80ff66&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
