@@ -14,14 +14,6 @@ Welcome to my GitHub profile! 👋 I'm **Abdullah Al Sazib**, also known as **Ja
 
 My ultimate goal is to become proficient in **ethical hacking** and **cybersecurity**, leveraging my coding skills to create robust and secure systems. I'm always eager to learn new things and contribute to open-source projects.
 
-### 🌍 Location:
-**Bangladesh** 🇧🇩
-
-### 💼 Currently:
-- **Learning Go** for backend development and **ReactJs** for frontend.
-- Exploring **Docker** 🐳 for containerization.
-- Expanding my skills in **cybersecurity** and **ethical hacking** 🔐.
-
 ### 💬 Fun Fact:
 I’m a huge fan of **Jack Sparrow** 🏴‍☠️ (Johnny Depp) and love watching the **Pirates of the Caribbean** movies! 🎬
 
@@ -48,17 +40,6 @@ Here are some of the open-source projects I’ve worked on:
 - **[E-Commerce](https://github.com/abdullahalsazib/e-commerce)**: A fully functional e-commerce application built with React.
 
 ---
-
-
-## 🛠️ Setup & Development
-
-I use the following tools for my development:
-
-- **Neovim** 📝 (My favorite text editor)
-- **VS Code** 💻 (For frontend and web development)
-- **Git & GitHub** 🌍 (For version control and collaboration)
-- **Docker** 🐋 (For containerization)
-
 
 ## 💡 Contributions
 
@@ -120,10 +101,16 @@ I love contributing to open-source projects and learning from the amazing develo
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahalsazib&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahalsazib&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a href="https://github.com/abdullahalsazib">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdullahalsazib&cache_seconds=7200&layout=compact&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahalsazib&langs_count=8&layout=compact&hide=java&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
+    <img height="280em" width="800em" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=abdullahalsazib&theme=material&radius=10" />
+  </a>
 </div>
 
-###
+---
+<div align="center">
+  :heart: Thanks for watching my profile! Have a nice day! :heart: <br/>
+  &copy; 2024 Abdullah Al Sazib
+</div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullahalsazib&bg_color=3d3d3d&color=ffffff&line=00b862&point=80ff66&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
