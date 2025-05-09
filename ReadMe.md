@@ -19,15 +19,64 @@ I’m a huge fan of **Jack Sparrow** 🏴‍☠️ (Johnny Depp) and love watchi
 
 ---
 
-## 🚀 Technologies & Tools
 
-- **Languages**: C, C++, Go, Java, Bash, Python, JavaScript (ReactJs)
-- **Frontend**: ReactJS
-- **Backend**: Go
-- **Databases**: MySQL
-- **Tools & Technologies**: Docker, Git, Neovim, VS Code, Kali Linux
-- **Cybersecurity**: Ethical Hacking, Penetration Testing, OSINT
-- **Operating Systems**: Linux (Kali Linux, Ubuntu)
+
+## 🚀 Tech Stack
+
+### 🧠 Languages
+- C, C++
+- Go (Golang)
+- Java (OOP & Basics)
+- Python
+- JavaScript (ES6+)
+- TypeScript
+- Bash
+
+### 🌐 Frontend
+- ReactJS (JavaScript & TypeScript)
+- TailwindCSS
+- HTML5, CSS3
+- Vite
+- Axios
+- Context API
+- React Router DOM
+
+### ⚙️ Backend
+- Go (Fiber, Gin, GORM, Viper)
+- RESTful API Development
+- JWT Authentication
+- Clean Project Architecture
+- Middleware, Validation, Role-Based Access
+
+### 🛢️ Databases
+- MySQL
+- PostgreSQL
+- MongoDB
+- SQL (Queries, Joins, Indexing)
+
+### 🛠️ Tools & Technologies
+- Docker
+- Git & GitHub
+- Neovim & Vim
+- VS Code
+- Postman (API Testing)
+- Figma (Basic Usage)
+- Mega (Cloud Storage)
+- Netlify (Frontend Deployment)
+
+### 🛡️ Cybersecurity
+- Ethical Hacking
+- Penetration Testing
+- OSINT (Open Source Intelligence)
+- Kali Linux
+- Nmap, Wireshark, Metasploit, Burp Suite
+- Linux Command-Line Mastery
+
+### 🐧 Operating Systems
+- Kali Linux
+- Ubuntu
+- Debian-Based Linux Distros
+
 ---
 
 ## 📝 My Projects
@@ -52,14 +101,6 @@ I love contributing to open-source projects and learning from the amazing develo
 
 ---
 
-## 📫 How to Reach Me
-
-- **LinkedIn**: [@abdullahalsazib](https://www.linkedin.com/in/abdullah-al-sazib-a79102244)
-- **Facebook**: [@abdullahalsazib22](https://www.facebook.com/abdullahalsazib22)
-- **Twitter**: [@AbdullahAlSazib](https://x.com/AbdullahAlSazib)
-- **YouTube**: [@abdullah_al_sazib](https://www.youtube.com/@abdullah_al_sazib)
-
----
 ###
 
 <div align="center">
@@ -107,6 +148,27 @@ I love contributing to open-source projects and learning from the amazing develo
     <img height="280em" width="800em" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=abdullahalsazib&theme=material&radius=10" />
   </a>
 </div>
+
+
+## 📌 Interests & Goals
+- 🔒 Mastering Cybersecurity & Ethical Hacking
+- ⚙️ Building Scalable Go Backend Systems
+- 🧩 Creating Modern React (TSX + Tailwind) Frontend Dashboards
+- 🚀 Dockerizing Everything
+- 🧠 Learning DSA & Advanced Java
+
+---
+
+## 🔗 Connect With Me
+- 🌐 GitHub: [github.com/abdullahalsazib](https://github.com/abdullahalsazib)
+- 💼 LinkedIn: [linkedin.com/in/abdullah-al-sazib-a79102244](https://www.linkedin.com/in/abdullah-al-sazib-a79102244)
+- 🐦 Twitter (X): [@AbdullahAlSazib](https://x.com/AbdullahAlSazib)
+- 📘 Facebook: [facebook.com/abdullahalsazib22](https://www.facebook.com/abdullahalsazib22)
+- 🎥 YouTube: [@abdullah_al_sazib](https://www.youtube.com/@abdullah_al_sazib)
+
+---
+
+> “Code with purpose. Hack with ethics. Dream beyond limits.” – Abdullah Al Sazib
 
 ---
 <div align="center">
