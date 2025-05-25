@@ -8,9 +8,9 @@ Welcome to my GitHub profile! 👋 I'm **Abdullah Al Sazib**, also known as **Ja
 
 - 🎓 Currently learning **Go**, **DSA (Data Structures & Algorithms)**, **Java**, **ReactJs**, **Cybersecurity** 🛡️, and more.
 - 🌱 Always looking to improve my **coding** skills and **problem-solving** abilities.
-- 💬 Ask me about **Linux**, **DevOps**, **C++**, **Ethical Hacking**, **Cybersecurity**, and **Web Development**.
+<!-- 💬 Ask me about **Linux**, **DevOps**, **C++**, **Ethical Hacking**, **Cybersecurity**, and **Web Development**. -->
 - 🌍 Based in **Bangladesh** 🇧🇩.
-
+<!---
 
 My ultimate goal is to become proficient in **ethical hacking** and **cybersecurity**, leveraging my coding skills to create robust and secure systems. I'm always eager to learn new things and contribute to open-source projects.
 
@@ -100,7 +100,7 @@ I love contributing to open-source projects and learning from the amazing develo
 - **Programming Tutorials & Learning Resources** 📚
 
 ---
-
+--->
 ###
 
 <div align="center">
@@ -149,6 +149,7 @@ I love contributing to open-source projects and learning from the amazing develo
   </a>
 </div>
 
+<!---
 
 ## 📌 Interests & Goals
 - 🔒 Mastering Cybersecurity & Ethical Hacking
@@ -157,7 +158,7 @@ I love contributing to open-source projects and learning from the amazing develo
 - 🚀 Dockerizing Everything
 - 🧠 Learning DSA & Advanced Java
 
----
+--->
 
 ## 🔗 Connect With Me
 - 🌐 GitHub: [github.com/abdullahalsazib](https://github.com/abdullahalsazib)
