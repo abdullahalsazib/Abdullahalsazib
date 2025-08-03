@@ -104,7 +104,7 @@ I love contributing to open-source projects and learning from the amazing develo
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/abdullah-al-sazib-a79102244" target="_blank">
+  <a href="https://www.linkedin.com/in/abdullah-al-sazib" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://t.me/anonymousjacke" target="_blank">
@@ -162,7 +162,7 @@ I love contributing to open-source projects and learning from the amazing develo
 
 ## 🔗 Connect With Me
 - 🌐 GitHub: [github.com/abdullahalsazib](https://github.com/abdullahalsazib)
-- 💼 LinkedIn: [linkedin.com/in/abdullah-al-sazib-a79102244](https://www.linkedin.com/in/abdullah-al-sazib-a79102244)
+- 💼 LinkedIn: [linkedin.com/in/abdullah-al-sazib](https://www.linkedin.com/in/abdullah-al-sazib)
 - 🐦 Twitter (X): [@AbdullahAlSazib](https://x.com/AbdullahAlSazib)
 - 📘 Facebook: [facebook.com/abdullahalsazib22](https://www.facebook.com/abdullahalsazib22)
 - 🎥 YouTube: [@abdullah_al_sazib](https://www.youtube.com/@abdullah_al_sazib)
@@ -174,6 +174,6 @@ I love contributing to open-source projects and learning from the amazing develo
 ---
 <div align="center">
   :heart: Thanks for watching my profile! Have a nice day! :heart: <br/>
-  &copy; 2024 Abdullah Al Sazib
+  &copy; 2025 Abdullah Al Sazib
 </div>
 
