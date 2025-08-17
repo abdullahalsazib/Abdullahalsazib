@@ -88,10 +88,10 @@ Welcome to my GitHub profile! 👋 I'm **Abdullah Al Sazib**, also known as **Ja
   </a>
   <img width="80%" src="https://github-profile-trophy.vercel.app/?username=abdullahalsazib&theme=radical&row=1" alt="abdullahalsazib" />
   <a href="https://github.com/abdullahalsazib">
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=abdullahalsazib&theme=radical&border_radius=3.5&short_numbers=true"/>
-     <img src="https://github-readme-stats.vercel.app/api?username=abdullahalsazib&show_icons=true&theme=radical"/>
+     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=abdullahalsazib&theme=radical&border_radius=3.5&short_numbers=true"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahalsazib&show_icons=true&theme=radical"/>
   </a>
-  <img width="95%" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=abdullahalsazib&theme=dracula&radius=10" />
+  <img height="280em" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=abdullahalsazib&theme=dracula&radius=10" />
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahalsazib&repo=e-com-backend" /> -->
 </div>
 
