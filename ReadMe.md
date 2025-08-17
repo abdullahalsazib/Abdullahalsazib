@@ -1,108 +1,49 @@
-# Abdullah Al Sazib
 
-Welcome to my GitHub profile! 👋 I'm **Abdullah Al Sazib**, also known as **Jack Sparrow** 🏴‍☠️.🚀 I'm a passionate **developer** 💻, **learner** 📚, and **tech enthusiast** ⚙️. I enjoy exploring new technologies and building cool projects that solve real-world problems. On this page, you'll find a collection of repositories ranging from **web development** 🌐 to **C++** and **Go** projects 🐍, as well as contributions to **open-source** communities 💪.
+<div align="center">
+  
+
+
+# Abdullah Al Sazib🏴‍☠️
+
+Welcome to my GitHub profile! 👋 I'm **Abdullah Al Sazib**, also known as **Jack Sparrow** 🏴‍☠️. I'm a passionate **developer** , **learner** , and **tech enthusiast** ⚙. I enjoy exploring new technologies and building cool projects that solve real-world problems. On this page, you'll find a collection of repositories ranging from **web development** to **C++** and **Go** projects , as well as contributions to **open-source** communities 💪.
 
 ---
+</div>
+<div align="center">
 
-## 🧑‍💻 About Me
+## 🔧 Technologies & Tools
 
-- 🎓 Currently learning **Go**, **DSA (Data Structures & Algorithms)**, **Java**, **ReactJs**, **Cybersecurity** 🛡️, and more.
-- 🌱 Always looking to improve my **coding** skills and **problem-solving** abilities.
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C&C++-informational?style=flat&logo=c&c++&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Vim_Nvim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+
+  
+</div>
+
+<div align="center">
+
+## About Me
+
+  Currently learning **Go(golang)** , **DSA (Data Structures & Algorithms)**, **Java**, **ReactJs**, **Cybersecurity** , and more.
+  Always looking to improve my **coding** skills and **problem-solving** abilities.
+
+</br>
+  
+  Based in **Bangladesh** 🇧🇩.
 <!-- 💬 Ask me about **Linux**, **DevOps**, **C++**, **Ethical Hacking**, **Cybersecurity**, and **Web Development**. -->
-- 🌍 Based in **Bangladesh** 🇧🇩.
-<!---
 
-My ultimate goal is to become proficient in **ethical hacking** and **cybersecurity**, leveraging my coding skills to create robust and secure systems. I'm always eager to learn new things and contribute to open-source projects.
-
-### 💬 Fun Fact:
-I’m a huge fan of **Jack Sparrow** 🏴‍☠️ (Johnny Depp) and love watching the **Pirates of the Caribbean** movies! 🎬
-
----
-
-
-
-## 🚀 Tech Stack
-
-### 🧠 Languages
-- C, C++
-- Go (Golang)
-- Java (OOP & Basics)
-- Python
-- JavaScript (ES6+)
-- TypeScript
-- Bash
-
-### 🌐 Frontend
-- ReactJS (JavaScript & TypeScript)
-- TailwindCSS
-- HTML5, CSS3
-- Vite
-- Axios
-- Context API
-- React Router DOM
-
-### ⚙️ Backend
-- Go (Fiber, Gin, GORM, Viper)
-- RESTful API Development
-- JWT Authentication
-- Clean Project Architecture
-- Middleware, Validation, Role-Based Access
-
-### 🛢️ Databases
-- MySQL
-- PostgreSQL
-- MongoDB
-- SQL (Queries, Joins, Indexing)
-
-### 🛠️ Tools & Technologies
-- Docker
-- Git & GitHub
-- Neovim & Vim
-- VS Code
-- Postman (API Testing)
-- Figma (Basic Usage)
-- Mega (Cloud Storage)
-- Netlify (Frontend Deployment)
-
-### 🛡️ Cybersecurity
-- Ethical Hacking
-- Penetration Testing
-- OSINT (Open Source Intelligence)
-- Kali Linux
-- Nmap, Wireshark, Metasploit, Burp Suite
-- Linux Command-Line Mastery
-
-### 🐧 Operating Systems
-- Kali Linux
-- Ubuntu
-- Debian-Based Linux Distros
-
----
-
-## 📝 My Projects
-
-Here are some of the open-source projects I’ve worked on:
-
-- **[NG-17 Portfolio](https://github.com/abdullahalsazib/ng-17-portfolio)**: A modern portfolio built with Angular 17.
-- **[C Modules](https://github.com/abdullahalsazib/C-Modules)**: A collection of C programming modules covering key topics.
-- **[CPP Modules](https://github.com/abdullahalsazib/CPP-Modules)**: A set of C++ modules, including OOP and algorithms.
-- **[E-Commerce](https://github.com/abdullahalsazib/e-commerce)**: A fully functional e-commerce application built with React.
-
----
-
-## 💡 Contributions
-
-I love contributing to open-source projects and learning from the amazing developers in the community. You can find my contributions in various repositories and projects related to:
-
-- **Cybersecurity & Ethical Hacking** 🛡️
-- **Web Development** 🌐
-- **Data Structures & Algorithms** 🧑‍💻
-- **Programming Tutorials & Learning Resources** 📚
-
----
---->
 ###
 
+</div>
 <div align="center">
   <a href="https://www.linkedin.com/in/abdullah-al-sazib" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -136,42 +77,36 @@ I love contributing to open-source projects and learning from the amazing develo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  
 </div>
 
 ###
 
 <div align="center">
   <a href="https://github.com/abdullahalsazib">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdullahalsazib&cache_seconds=7200&layout=compact&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahalsazib&langs_count=8&layout=compact&hide=java&title_color=ffab91&text_color=80cbc4&bg_color=263238&border_radius=10" />
-    <img height="280em" width="800em" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=abdullahalsazib&theme=material&radius=10" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdullahalsazib&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahalsazib&langs_count=8&layout=compact&hide=java&&theme=radical&border_radius=10" />
   </a>
+  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=abdullahalsazib&theme=radical&row=1" alt="abdullahalsazib" />
+  <a href="https://github.com/abdullahalsazib">
+     <img src="https://github-readme-streak-stats.herokuapp.com?user=abdullahalsazib&theme=radical&border_radius=3.5&short_numbers=true"/>
+     <img src="https://github-readme-stats.vercel.app/api?username=abdullahalsazib&show_icons=true&theme=radical"/>
+  </a>
+  <img width="95%" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=abdullahalsazib&theme=dracula&radius=10" />
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahalsazib&repo=e-com-backend" /> -->
 </div>
 
-<!---
 
-## 📌 Interests & Goals
-- 🔒 Mastering Cybersecurity & Ethical Hacking
-- ⚙️ Building Scalable Go Backend Systems
-- 🧩 Creating Modern React (TSX + Tailwind) Frontend Dashboards
-- 🚀 Dockerizing Everything
-- 🧠 Learning DSA & Advanced Java
-
---->
-
-## 🔗 Connect With Me
-- 🌐 GitHub: [github.com/abdullahalsazib](https://github.com/abdullahalsazib)
-- 💼 LinkedIn: [linkedin.com/in/abdullah-al-sazib](https://www.linkedin.com/in/abdullah-al-sazib)
-- 🐦 Twitter (X): [@AbdullahAlSazib](https://x.com/AbdullahAlSazib)
-- 📘 Facebook: [facebook.com/abdullahalsazib22](https://www.facebook.com/abdullahalsazib22)
-- 🎥 YouTube: [@abdullah_al_sazib](https://www.youtube.com/@abdullah_al_sazib)
+<div align="center">
+  
 
 ---
 
 > “Code with purpose. Hack with ethics. Dream beyond limits.” – Abdullah Al Sazib
 
 ---
+
+</div>
+
 <div align="center">
   :heart: Thanks for watching my profile! Have a nice day! :heart: <br/>
   &copy; 2025 Abdullah Al Sazib
