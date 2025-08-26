@@ -25,14 +25,14 @@ jobs:
     steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it.
-    # We are checking out the 'master' branch because the push action will use it.
+    # We are checking out the 'main' branch because the push action will use it.
     - uses: actions/checkout@v2
       with:
-        ref: master
+        ref: main
         fetch-depth: 0 # Fetch all history for proper git operations
 
     # Generates the snake
-    - uses: Platane/snk@master
+    - uses: Platane/snk@main
       id: snake-gif
       with:
         github_user_name: abdullahalsazib
@@ -47,7 +47,7 @@ jobs:
         git config user.email "github-actions[bot]@users.noreply.github.com"
         git add dist/github-contribution-grid-snake.gif dist/github-contribution-grid-snake.svg
         git commit -m "Generate snake contribution graph" || echo "No changes to commit"
-        git push origin master
+        git push origin main
 
 # This job is not needed and has been removed, as the above steps handle the push.
 #    - uses: crazy-max/ghaction-github-pages@v2.1.3
