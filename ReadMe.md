@@ -29,6 +29,11 @@ Welcome to my GitHub profile! 👋 I'm **Abdullah Al Sazib**, also known as **Ja
   
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdullahalsazib&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+
 <div align="center">
 
 ## About Me
@@ -59,38 +64,29 @@ Welcome to my GitHub profile! 👋 I'm **Abdullah Al Sazib**, also known as **Ja
   </a>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="reactjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
 
-###
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center" width="80">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=cpp,go,arch,linux,ts,nextjs,neovim,lua,git,github,githubactions,docker" />
+</a>
+</p>
+
+
+
 
 <div align="center">
   <a href="https://github.com/abdullahalsazib">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdullahalsazib&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahalsazib&langs_count=8&layout=compact&hide=java&&theme=radical&border_radius=10" />
   </a>
-  <img width="80%" src="https://github-profile-trophy.vercel.app/?username=abdullahalsazib&theme=radical&row=1" alt="abdullahalsazib" />
-  <a href="https://github.com/abdullahalsazib">
+<!--   <img width="80%" src="https://github-profile-trophy.vercel.app/?username=abdullahalsazib&theme=radical&row=1" alt="abdullahalsazib" /> -->
+<!--   <a href="https://github.com/abdullahalsazib"> -->
 <!--      <img height="130em" src="https://github-readme-streak-stats.herokuapp.com?user=abdullahalsazib&theme=radical&border_radius=3.5&short_numbers=true"/> -->
 <!--      <img height="130em" src="https://github-readme-stats.vercel.app/api?username=abdullahalsazib&show_icons=true&theme=radical"/> -->
-  </a>
+<!--   </a> -->
   <img height="280em" src="https://fabianocouto-activity-graph.vercel.app/graph/?username=abdullahalsazib&theme=dracula&radius=10" />
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahalsazib&repo=e-com-backend" /> -->
 </div>
